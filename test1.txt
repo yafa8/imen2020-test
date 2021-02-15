@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 148C-2F17
+
+ Directory of C:\Users\HP\Desktop\test2
+
+02/15/2021  08:37 PM    <DIR>          .
+02/15/2021  08:37 PM    <DIR>          ..
+02/15/2021  08:37 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,608,563,712 bytes free
